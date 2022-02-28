@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_read"
+            android:icon="@drawable/ic_baseline_menu_book_24"
+            android:title="See Menu" />
+        <item
+            android:id="@+id/nav_create"
+            android:icon="@drawable/ic_baseline_fastfood_24"
+            android:title="Request Dish" />
+        <item
+            android:id="@+id/nav_delete"
+            android:icon="@drawable/ic_baseline_no_food_24"
+            android:title="Remove Dish" />
+        <item
+            android:id="@+id/nav_update"
+            android:icon="@drawable/ic_baseline_restaurant_menu_24"
+            android:title="Improve Dish" />
+    </group>
+</menu>

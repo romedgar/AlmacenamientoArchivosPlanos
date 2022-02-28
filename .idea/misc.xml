@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/EG/Android Studio/LADM_U1_Practica2_AlmacenamientoArchivosPlanos/app/src/main/res/drawable/side_nav_bar.xml" value="0.2635" />
+        <entry key="..\:/Users/EG/Android Studio/LADM_U1_Practica2_AlmacenamientoArchivosPlanos/app/src/main/res/layout/activity_main.xml" value="0.5280797101449275" />
+        <entry key="..\:/Users/EG/Android Studio/LADM_U1_Practica2_AlmacenamientoArchivosPlanos/app/src/main/res/layout/add_plate.xml" value="0.5280797101449275" />
+        <entry key="..\:/Users/EG/Android Studio/LADM_U1_Practica2_AlmacenamientoArchivosPlanos/app/src/main/res/layout/app_bar_main.xml" value="0.5280797101449275" />
+        <entry key="..\:/Users/EG/Android Studio/LADM_U1_Practica2_AlmacenamientoArchivosPlanos/app/src/main/res/layout/card_layout.xml" value="0.25" />
+        <entry key="..\:/Users/EG/Android Studio/LADM_U1_Practica2_AlmacenamientoArchivosPlanos/app/src/main/res/layout/content_main.xml" value="0.2672239108409321" />
+        <entry key="..\:/Users/EG/Android Studio/LADM_U1_Practica2_AlmacenamientoArchivosPlanos/app/src/main/res/layout/fragment_create.xml" value="0.16489361702127658" />
+        <entry key="..\:/Users/EG/Android Studio/LADM_U1_Practica2_AlmacenamientoArchivosPlanos/app/src/main/res/layout/fragment_delete.xml" value="0.2462962962962963" />
+        <entry key="..\:/Users/EG/Android Studio/LADM_U1_Practica2_AlmacenamientoArchivosPlanos/app/src/main/res/layout/fragment_home.xml" value="0.17617753623188406" />
+        <entry key="..\:/Users/EG/Android Studio/LADM_U1_Practica2_AlmacenamientoArchivosPlanos/app/src/main/res/layout/fragment_read.xml" value="0.17617753623188406" />
+        <entry key="..\:/Users/EG/Android Studio/LADM_U1_Practica2_AlmacenamientoArchivosPlanos/app/src/main/res/layout/fragment_slideshow.xml" value="0.17617753623188406" />
+        <entry key="..\:/Users/EG/Android Studio/LADM_U1_Practica2_AlmacenamientoArchivosPlanos/app/src/main/res/layout/fragment_update.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/EG/Android Studio/LADM_U1_Practica2_AlmacenamientoArchivosPlanos/app/src/main/res/layout/nav_header_main.xml" value="0.262037037037037" />
+        <entry key="..\:/Users/EG/Android Studio/LADM_U1_Practica2_AlmacenamientoArchivosPlanos/app/src/main/res/layout/view_add_plate.xml" value="0.2462962962962963" />
+        <entry key="..\:/Users/EG/Android Studio/LADM_U1_Practica2_AlmacenamientoArchivosPlanos/app/src/main/res/menu/main.xml" value="0.262037037037037" />
+        <entry key="..\:/Users/EG/Android Studio/LADM_U1_Practica2_AlmacenamientoArchivosPlanos/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2635" />
+        <entry key="..\:/Users/EG/Documents/Tecnologico/Moviles/LADM_U1_Practica2_AlmacenamientoArchivosPlanos/app/src/main/res/layout/activity_main.xml" value="0.5280797101449275" />
+        <entry key="..\:/Users/EG/Documents/Tecnologico/Moviles/LADM_U1_Practica2_AlmacenamientoArchivosPlanos/app/src/main/res/layout/nav_header_main.xml" value="0.5541666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
